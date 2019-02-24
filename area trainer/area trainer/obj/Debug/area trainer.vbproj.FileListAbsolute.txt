@@ -1,0 +1,31 @@
+N:\task\Area trainer\Area trainer\obj\Debug\Area trainer.vbproj.ResolveComReference.cache
+N:\task\Area trainer\Area trainer\bin\Debug\Area trainer.exe
+N:\task\Area trainer\Area trainer\bin\Debug\Area trainer.pdb
+N:\task\Area trainer\Area trainer\bin\Debug\Area trainer.xml
+N:\task\Area trainer\Area trainer\obj\Debug\ResolveAssemblyReference.cache
+N:\task\Area trainer\Area trainer\obj\Debug\Area_trainer.Main_page.resources
+N:\task\Area trainer\Area trainer\obj\Debug\Area_trainer.Resources.resources
+N:\task\Area trainer\Area trainer\obj\Debug\Area_trainer.register.resources
+N:\task\Area trainer\Area trainer\obj\Debug\Area trainer.vbproj.GenerateResource.Cache
+N:\task\Area trainer\Area trainer\obj\Debug\Area trainer.exe
+N:\task\Area trainer\Area trainer\obj\Debug\Area trainer.xml
+N:\task\Area trainer\Area trainer\obj\Debug\Area trainer.pdb
+N:\task\Area trainer\Area trainer\obj\Debug\Area_trainer.Game.resources
+E:\area trainer\Area trainer\obj\Debug\Area trainer.vbproj.ResolveComReference.cache
+E:\area trainer\Area trainer\obj\Debug\Area trainer.exe
+E:\area trainer\Area trainer\obj\Debug\Area trainer.xml
+E:\area trainer\Area trainer\obj\Debug\Area trainer.pdb
+E:\area trainer\Area trainer\bin\Debug\Area trainer.exe
+E:\area trainer\Area trainer\bin\Debug\Area trainer.pdb
+E:\area trainer\Area trainer\bin\Debug\Area trainer.xml
+E:\area trainer\Area trainer\obj\Debug\Area trainer.vbprojAssemblyReference.cache
+E:\area trainer\Area trainer\obj\Debug\Area_trainer.Game.resources
+E:\area trainer\Area trainer\obj\Debug\Area_trainer.Main_page.resources
+E:\area trainer\Area trainer\obj\Debug\Area_trainer.Resources.resources
+E:\area trainer\Area trainer\obj\Debug\Area_trainer.register.resources
+E:\area trainer\Area trainer\obj\Debug\Area trainer.vbproj.GenerateResource.cache
+E:\area trainer\Area trainer\obj\Debug\Area trainer.vbproj.CoreCompileInputs.cache
+E:\area trainer\Area trainer\bin\Debug\Area trainer.exe.manifest
+E:\area trainer\Area trainer\bin\Debug\Area trainer.application
+E:\area trainer\Area trainer\obj\Debug\Area trainer.exe.manifest
+E:\area trainer\Area trainer\obj\Debug\Area trainer.application
